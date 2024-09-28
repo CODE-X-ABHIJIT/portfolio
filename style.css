@@ -403,7 +403,7 @@ footer .text span a:hover{
 }
 
 /* Responsive Media Query */
-@media (max-width: 1190px) {
+@media (max-width: 1050px) {
   section .content{
     width: 85%;
   }
